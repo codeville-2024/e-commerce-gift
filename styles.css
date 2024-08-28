@@ -386,3 +386,31 @@ ul {
   text-align: center;
   font-weight: 400;
 }
+
+/* Product details page */
+
+#header-2{
+  font-weight: 400;
+  font-size: 14px;
+  margin-left: 107px;
+  margin-top: 20px;
+}
+
+#marine-blue{
+  width: 535px;
+  height: 701px;
+  margin-left: 107px;
+}
+
+#mw{
+  font-weight: 600;
+  font-size: 20px;
+}
+
+#header-3{
+  display: flex;
+}
+
+#wd{
+  margin-left: 60px;
+}
