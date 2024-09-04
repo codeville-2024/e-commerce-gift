@@ -42,7 +42,7 @@ ul {
 }
 
 #background_1 {
-  background-image: url("/Images/background_page.png");
+  background-image: url("Images/background_page.png");
   width: 100%;
   height: 640px;
   /* padding: 0px, 165px, 0px, 165px; */
