@@ -168,6 +168,6 @@ products.forEach((product) => {
 `;
   let productId = product.id;
   productDetails.addEventListener("click", () => {
-    window.location.href = `index.html?id=${productId}`;
+    window.location.href = `product-details.html?id=${productId}`;
   });
 });
