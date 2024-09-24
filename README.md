@@ -1,4 +1,4 @@
-# E-commerce store by Gift
+# E-commerce store by Gift Onuoha
 
 ## Description
 
